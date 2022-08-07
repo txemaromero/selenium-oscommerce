@@ -34,6 +34,12 @@ Two test executions in:
 	}
 ```
 
+## Design
+
+I provide the UML class diagram.
+
+![UML class diagram](uml_class_diagram.png)
+
 ## Demo
 
 ![Demo video](demo/demo.gif)
